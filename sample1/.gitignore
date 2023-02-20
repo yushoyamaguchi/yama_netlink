@@ -1,0 +1,10 @@
+*.mod
+*.cmd
+*.symvers
+*.order
+*.mod*
+*.order
+*.ko
+*.o
+
+netlink_user
