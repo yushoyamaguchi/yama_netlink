@@ -1,4 +1,4 @@
-PRG    = netlink1
+PRG    = route_add
 SRC    = main.c libnetlink.c
 
 CFLAGS = -Wall
